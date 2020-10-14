@@ -1,0 +1,30 @@
+.main{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darksalmon;
+    text-decoration: underline;
+    text-decoration-color: coral;
+    margin-top: 50px;
+    background-color: rgb(241, 199, 185);
+}
+.btn {
+    margin-bottom: 10px;
+    background-color: darksalmon !important;
+    border-radius: 10px !important;
+    border-color:coral !important;
+    margin: auto;
+  width: 350px !important;
+  height: 60px !important;
+
+    }
+    .nour {
+    height:500px;
+    width:500px;
+    padding-bottom: 40px;
+    }
+    img {
+      height: 30px;
+      width: 30px;
+      margin-right: 10px;
+    }
+   
